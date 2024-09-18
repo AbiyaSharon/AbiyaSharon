@@ -23,7 +23,7 @@ Welcome to my GitHub portfolio! I specialize in Cybersecurity, Data Science, and
 ### 1. [Intrusion Alert-based Login System](https://github.com/AbiyaSharon/Intrusion-Alert-System)
 🔒 _An AI-driven system to detect intrusions and alert users in real-time._
 - It is a web based framework which alerts a legitimate user if brute force attacks happens in their account 
-- [🔗 View Project]((https://github.com/AbiyaSharon/IABLS))
+- [🔗 View Project](https://github.com/AbiyaSharon/IABLS)
 
 ### 2. [Food Adulteration Monitor using IoT](https://github.com/AbiyaSharon/Food-Adulteration-Monitor)
 🍽️ _An IoT-based system for detecting food adulteration.
