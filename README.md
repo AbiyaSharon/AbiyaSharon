@@ -29,14 +29,14 @@ Welcome to my GitHub portfolio! I specialize in Cybersecurity, Data Science, and
 🍽️ _An IoT-based system for detecting food adulteration.
 This project has been taken and done by me for a college competition and made me to won a prize.It was done to provide the solution for a real time case scenario of jammu and kashmir incident death of childrens consuming food which was adulterated with cough syrup
 - Tech Stack: Python, IoT, SQL
-- [🔗 View Project](https://github.com/users/AbiyaSharon/projects/2)
+- [🔗 View Project](https://github.com/users/AbiyaSharon/projects)
 
 ## Skills
 
 - Languages: Python, SQL,HTML,Java
 - Cybersecurity Tools: Wireshark, osquery, ELK Stack,Autopsy,Metasploit,Burpsuite
 - Data Science Tools: Pandas, NumPy, Scikit-learn
-
+- Machine learning:Preprocessing,Training dataset 
 
 
 
