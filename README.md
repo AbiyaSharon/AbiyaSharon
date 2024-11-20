@@ -31,6 +31,44 @@ This project has been taken and done by me for a college competition and made me
 - Tech Stack: Python, IoT, SQL
 - [🔗 View Project](https://github.com/users/AbiyaSharon/projects)
 
+  ### 3.[ELK Stack for Threat Detection]((https://github.com/AbiyaSharon)
+🛡️ A real-time threat detection system using ELK Stack to monitor and analyze network traffic.
+
+This project integrates Elasticsearch, Logstash, and Kibana (ELK Stack) to provide powerful insights and real-time alerts on network traffic. It uses custom threat analysis and monitoring rules to detect malicious behavior, ensuring proactive security monitoring.
+Tech Stack: ELK Stack, Python, Docker
+### 4.  Wireshark-Based Threat Analysis
+🔍 A Wireshark-based solution for network traffic monitoring and security analysis.
+
+This project uses Wireshark to capture and analyze network traffic for potential threats. It identifies various attack patterns such as DDoS and MITM, helping detect and mitigate potential vulnerabilities in real-time.
+
+Features:
+Network traffic capture and analysis
+Detection of common network attacks (e.g., DDoS, MITM)
+Detailed insights through Wireshark filters
+Tech Stack:
+Tools: Wireshark, Python
+Protocols: TCP/IP, HTTP, DNS
+Use Case: Network security, Traffic analysis
+
+🔗 [View Project](https://github.com/AbiyaSharon/Wireshark-Threat-Analysis)
+
+### 5. Intrusion Detection System (IDS)
+🚨 An AI-powered Intrusion Detection System designed to detect malicious activity in networks.
+
+This project focuses on building a robust Intrusion Detection System (IDS) using machine learning algorithms to classify network traffic as either benign or malicious. It uses data from a variety of sources and applies advanced feature extraction techniques to enhance the accuracy and performance of the system.
+
+Features:
+Real-time intrusion detection and classification
+Uses machine learning models for accurate detection
+Detects various attack types (e.g., DDoS, phishing, malware)
+Tech Stack:
+Machine Learning: Python, Scikit-learn
+Dataset: CICIDS 2019 Dataset
+Algorithms: Random Forest, SVM, Neural Networks
+Use Case: Network security, Attack detection
+
+🔗 [View Project](https://github.com/AbiyaSharon/IDS)
+
 ## Skills
 
 - Languages: Python, SQL,HTML,Java
